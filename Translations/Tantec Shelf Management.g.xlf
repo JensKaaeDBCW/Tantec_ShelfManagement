@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Tantec Shelf Management">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 1168506391 - Control 2048760879 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2187133665">
+          <source>The General Area of the Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BDL Phys. Inventory Journal - Control BDL Area - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1168506391 - Control 2064780997 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2187133665">
+          <source>The Section in the Area where the Item is placed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BDL Phys. Inventory Journal - Control BDL Section - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1168506391 - Control 4029051154 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2187133665">
+          <source>The Specific shelf where the item is placed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BDL Phys. Inventory Journal - Control BDL Shelf - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1201108037 - Control 2048760879 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2706473163">
+          <source>The general area for this item on this location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BDL StockKeeping Unit Card - Control BDL Area - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1201108037 - Control 2064780997 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2706473163">
+          <source>The area section where the item is found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BDL StockKeeping Unit Card - Control BDL Section - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1201108037 - Control 4029051154 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2706473163">
+          <source>The specific Shelf of the section where the item is placed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BDL StockKeeping Unit Card - Control BDL Shelf - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 935682028 - Field 2048760879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 346005766">
+          <source>Area</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BDl Item Journal Line - Field BDL Area - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 935682028 - Field 2064780997 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 346005766">
+          <source>Section</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BDl Item Journal Line - Field BDL Section - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 935682028 - Field 4029051154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 346005766">
+          <source>Shelf</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BDl Item Journal Line - Field BDL Shelf - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2154342137 - Field 2048760879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 494646383">
+          <source>Area</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BDL Stockkeeping Unit - Field BDL Area - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2154342137 - Field 2064780997 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 494646383">
+          <source>Section</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BDL Stockkeeping Unit - Field BDL Section - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2154342137 - Field 4029051154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 494646383">
+          <source>Shelf</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BDL Stockkeeping Unit - Field BDL Shelf - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

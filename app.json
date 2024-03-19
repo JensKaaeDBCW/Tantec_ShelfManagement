@@ -1,0 +1,35 @@
+{
+  "id": "c63a83c6-eea2-4949-bff3-27f089122336",
+  "name": "Tantec Shelf Management",
+  "publisher": "BC World",
+  "brief": "Extending Shelf functionality",
+  "description": "Allow Shelf Nos. to be built by smaller parts allowing sorting and filtering other places",
+  "version": "1.0.0.2",  
+  "runtime": "8.0",
+  "target": "Cloud",
+  "application": "19.0.0.0",
+  "platform": "23.0.0.0",  
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": false
+  },
+  "features": [
+    "TranslationFile","ExcludeGeneratedTranslations","NoImplicitWith"
+  ],
+  "idRanges": [
+    {
+      "from": 50500,
+      "to": 50549
+    }
+  ],
+  "dependencies": [
+    
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name": "Base Application",
+      "version": "23.3.0.0",
+      "publisher": "Microsoft"
+    }
+  ]
+}
